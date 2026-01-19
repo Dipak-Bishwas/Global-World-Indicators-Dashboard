@@ -22,7 +22,7 @@ This project is an interactive **Power BI dashboard** analyzing global economic,
 - **10+ interactive dashboards** designed for trend analysis and decision support  
 
 ## Screenshots
-![Dashboard Screenshot]([[https://github.com/Dipak-Bishwas/Global-World-Indicators-Dashboard/blob/main/project.png?raw=true](https://github.com/Dipak-Bishwas/Global-World-Indicators-Dashboard/blob/e56516b684e00f99c524deded242765f57f9445a/project.png.png)](https://github.com/Dipak-Bishwas/Global-World-Indicators-Dashboard/blob/main/project.png?raw=true))
+![Dashboard Screenshot]([[[https://github.com/Dipak-Bishwas/Global-World-Indicators-Dashboard/blob/main/project.png?raw=true](https://github.com/Dipak-Bishwas/Global-World-Indicators-Dashboard/blob/e56516b684e00f99c524deded242765f57f9445a/project.png.png)](https://github.com/Dipak-Bishwas/Global-World-Indicators-Dashboard/blob/main/project.png?raw=true)](https://github.com/Dipak-Bishwas/Global-World-Indicators-Dashboard/blob/927c18ce7182e755f627069beb53363ffec5101c/project.png))
 
 
 ## How to Use
