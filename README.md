@@ -22,7 +22,8 @@ This project is an interactive **Power BI dashboard** analyzing global economic,
 - **10+ interactive dashboards** designed for trend analysis and decision support  
 
 ## Screenshots
-![Dashboard Screenshot][([link-to-your-image.png](https://github.com/Dipak-Bishwas/Global-World-Indicators-Dashboard/blob/main/project.png.png?raw=true))](https://github.com/Dipak-Bishwas/Global-World-Indicators-Dashboard/blob/48ace01c1a6533735c86f73f3a8ffd9534040e64/project.png.png)](https://github.com/Dipak-Bishwas/Global-World-Indicators-Dashboard/blob/main/project.png.png?raw=true)
+![Dashboard Screenshot](https://github.com/Dipak-Bishwas/Global-World-Indicators-Dashboard/blob/main/project.png?raw=true)
+
 
 ## How to Use
 1. Open the Power BI `.pbix` file in **Power BI Desktop** or **Power BI Service**.  
